@@ -1,0 +1,28 @@
+# Ambientes virtuais e pacotes Python
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PlatformIO & Compilação Embarcada
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs temporários de captura de hardware
+rssi_dados.txt
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+*~
+*.swp
